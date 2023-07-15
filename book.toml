@@ -1,0 +1,6 @@
+[book]
+authors = ["xphos"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Compilers: Grasping LLVM"
